@@ -12,13 +12,7 @@ Conteúdo da disciplina de desenvolvimento de aplicativos móveis, ministrada pe
 ### Estudo de caso 1 - Introdução a linguagem de programação Dart
 
 *   [Tutorial - Introdução a linguagem de programação Dart - Básico](http://bit.ly/2KlP5iz)
-*   Tutorial - Introdução a linguagem de programação Dart - Collections
-*   Tutorial - Introdução a linguagem de programação Dart - Boas práticas
 *   [Tutorial - Programação Orientada à Objetos com Dart](http://bit.ly/31n2ufY)
-*   Tutorial - Programação Orientada à Objetos com Dart - Padrões de criação
-*   Tutorial - Programação Orientada à Objetos com Dart - Padrões estruturais
-*   Tutorial - Programação Orientada à Objetos com Dart - Padrões comportamentais
-*   Tutorial - Programação Orientada à Objetos com Dart - Princípios SOLID
 
 ### Estudo de caso 2 - Formulários
 
